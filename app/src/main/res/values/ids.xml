@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="clearBTN" type="id" />
+    <item name="parenthesesBTN" type="id" />
+    <item name="exponentBTN" type="id" />
+    <item name="divideBTN" type="id" />
+    <item name="sevenBTN" type="id" />
+    <item name="eightBTN" type="id" />
+    <item name="nineBTN" type="id" />
+    <item name="multiplyBTN" type="id" />
+    <item name="fourBTN" type="id" />
+    <item name="fiveBTN" type="id" />
+    <item name="sixBTN" type="id" />
+    <item name="subtractBTN" type="id" />
+    <item name="oneBTN" type="id" />
+    <item name="twoBTN" type="id" />
+    <item name="threeBTN" type="id" />
+    <item name="addBTN" type="id" />
+    <item name="plusMinusBTN" type="id" />
+    <item name="zeroBTN" type="id" />
+    <item name="pointBTN" type="id" />
+    <item name="equalsBTN" type="id" />
+</resources>
